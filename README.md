@@ -58,6 +58,14 @@ With broader adoption, this approach could support:
 - cross-functional alignment between UX, policy, and engineering
 - post-incident analysis when trust or usability breaks down
 
+## Related Work
+This repository is part of a broader line of inquiry into signal integrity and institutional trust.
+
+- **Signal and Trust Notes**  
+  https://github.com/<your-username>/signal-and-trust-notes
+
+That repository explores the systemic consequences of design and policy decisions documented here.
+
 ## Status
 Active reference and working archive.
 
