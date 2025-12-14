@@ -62,7 +62,7 @@ With broader adoption, this approach could support:
 This repository is part of a broader line of inquiry into signal integrity and institutional trust.
 
 - **Signal and Trust Notes**  
-  https://github.com/<your-username>/signal-and-trust-notes
+  https://github.com/mattmcclendon/signal-and-trust-notes
 
 That repository explores the systemic consequences of design and policy decisions documented here.
 
