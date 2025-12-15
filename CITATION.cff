@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "UX Decision Records"
+message: "If you reference these decision records, please cite accordingly."
+type: research
+authors:
+  - family-names: McClendon
+    given-names: Matthew
+year: 2025
+abstract: >
+  A structured archive of consequential UX and system design decisions,
+  documenting context, tradeoffs, and anticipated impact.
+license: MIT
+repository-code: https://github.com/mattmcclendon/ux-decision-records
